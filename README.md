@@ -1,4 +1,6 @@
-# Shadow motion using alvar tag
+# IMT-350 Robotics II - 2017 Shadow motion using alvar tag
+### This project was done by: Oscar Vasquez
+### The professor of the subject was Benjamin Pinaya
 ==========================
 ####This project shows how we can generate movement to a ur5 robot using a figure of alvar tag 
 
